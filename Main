@@ -1,7 +1,7 @@
 class StrictEqualityExtension {
   getInfo() {
     return {
-      id: 'strictequalityexample', // change this if you make an actual extension!
+      id: 'quickchatcaser',
       name: 'Strict Equality',
       blocks: [
         {
